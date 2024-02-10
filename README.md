@@ -35,7 +35,7 @@ Make sure you have the following prerequisites installed on your machine:
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/rowanmekawy/your-repo.git
+git clone https://github.com/rowanmekawy/vending_machine
 cd your-repo
 python -m venv venv
 source venv/bin/activate
