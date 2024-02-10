@@ -1,3 +1,11 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore local configuration files
+.env
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
@@ -20,3 +28,4 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+vending_machine.log
