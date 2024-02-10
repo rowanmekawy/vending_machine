@@ -28,3 +28,4 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+vending_machine.log
