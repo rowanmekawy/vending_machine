@@ -21,6 +21,7 @@ This project is built using Service-Oriented Architecture (SOA), an architectura
 
 - [Django](https://www.djangoproject.com/): A high-level Python web framework.
 - [Django REST Framework](https://www.django-rest-framework.org/): A powerful and flexible toolkit for building Web APIs.
+- Swagger: Used for API documentation.
 
 ## Installation
 Follow these steps to set up and run the project locally.
